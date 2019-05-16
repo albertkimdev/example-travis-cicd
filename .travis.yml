@@ -10,7 +10,7 @@ cache: npm
 before_install:
   - echo "before_install"
 install:
-  - echo "install"
+  - echo "installl"
 before_script:
   - echo "before_script"
 script:
